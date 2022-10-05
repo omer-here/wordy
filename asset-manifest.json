@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordy/static/css/main.198f9aa8.css",
+    "main.js": "/wordy/static/js/main.f80bfbb2.js",
+    "static/js/787.ba815635.chunk.js": "/wordy/static/js/787.ba815635.chunk.js",
+    "index.html": "/wordy/index.html",
+    "main.198f9aa8.css.map": "/wordy/static/css/main.198f9aa8.css.map",
+    "main.f80bfbb2.js.map": "/wordy/static/js/main.f80bfbb2.js.map",
+    "787.ba815635.chunk.js.map": "/wordy/static/js/787.ba815635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198f9aa8.css",
+    "static/js/main.f80bfbb2.js"
+  ]
+}
